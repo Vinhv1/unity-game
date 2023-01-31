@@ -1,9 +1,5 @@
 using UnityEngine;
 using UnityEngine.PostProcessing;
-<<<<<<< Updated upstream
-using MinAttribute = UnityEngine.PostProcessing.MinAttribute;
-=======
->>>>>>> Stashed changes
 
 namespace UnityEditor.PostProcessing
 {
