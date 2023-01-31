@@ -98,7 +98,11 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 112000002, guid: 23a8a9f771b84c2439ad077eadd3c78f, type: 2}
+<<<<<<< Updated upstream
   m_LightingSettings: {fileID: 4890085278179872738, guid: 0d5db90400a0bfc4bbeca535b65d86f8, type: 2}
+=======
+  m_LightingSettings: {fileID: 4890085278179872738, guid: 18bbb60c753b36e4ebea672ed13e75ca, type: 2}
+>>>>>>> Stashed changes
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
